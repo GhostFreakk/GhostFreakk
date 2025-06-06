@@ -1,14 +1,42 @@
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/6258b9b04bcf4d7ab877330ebffea885/9cfcd8fba994b07e-33/s2048x3072/25b09b1aa2745e2df0b54df5887397ed023f2dba.pnj" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=200&section=header&text=Ghost%20Freak&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  <h1>👻 Ghost Freak</h1>
-  <h3>Software Developer & Open Source Enthusiast</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+ghostly+realm!;Where+code+meets+creativity;Let's+create+something+spooky!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+ghostly+realm!;Where+code+meets+creativity;Let's+create+something+spooky!" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/ObqgA8TEzVEAAAAC/im-coming-ghostface.gif" width="300" height="300" alt="Ghostface Animation" />
+</div>
+
+###
+
+<div align="center">
+  <h2>👻 About Me</h2>
+  <p>
+    I'm a passionate software developer who loves to create spooky and innovative solutions.
+    When I'm not coding, you can find me exploring the depths of open source projects
+    and contributing to the developer community.
+  </p>
+</div>
+
+###
+
+<div align="center">
+  <h2>🎯 Featured Projects</h2>
+  <a href="https://github.com/GhostFreakk/Aracane-Echos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakk&repo=Aracane-Echos&theme=dracula" />
+  </a>
+  <a href="https://github.com/GhostFreakOS/GhostFreakOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=GhostFreakOS&theme=dracula" />
+  </a>
+  <a href="https://github.com/GhostFreakOS/Ghostshell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=Ghostshell&theme=dracula" />
+  </a>
+  <a href="https://github.com/GhostFreakOS/GhostFreak-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhostFreakOS&repo=GhostFreak-website&theme=dracula" />
+  </a>
 </div>
 
 ###
@@ -50,9 +78,26 @@
 ###
 
 <div align="center">
+  <h2>🎭 Developer Jokes</h2>
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</div>
+
+###
+
+<div align="center">
+  <h2>💭 Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+###
+
+<div align="center">
   <h2>🌐 Connect With Me</h2>
   <a href="https://www.instagram.com/iblameravix/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/GhostFreakk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -69,5 +114,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer" />
 </div>
-
-###
