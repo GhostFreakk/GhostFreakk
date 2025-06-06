@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/ObqgA8TEzVEAAAAC/im-coming-ghostface.gif" width="300" height="300" alt="Ghostface Animation" />
+  <img src="https://media1.tenor.com/m/ObqgA8TEzVEAAAAC/im-coming-ghostface.gif" width="800" height="300" alt="Ghostface Animation" />
 </div>
 
 ###
