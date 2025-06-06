@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h1 align="center">HELLO WORLD!!!!!!<br>this is Xeon-Zen(A7med Shafiq)🦈</h1>
+<h1 align="center">HELLO WORLD!!!!!!<br>this is Ghost Freakkkkk(A7med Shafiq)👻</h1>
 
 ###
 
@@ -33,8 +33,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3f4ult-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3f4ult-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostFreakk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostFreakk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -42,7 +42,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/iblamexeon/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/iblameravix/?hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/d3f4ult-dev/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/GhostFreakk/count.svg?"  />
 </div>
 
 ###
@@ -60,9 +60,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=D3f4ult-dev&theme=gruvbox" alt="Layout with last medium posts"  />
-</div>
 
 ###
